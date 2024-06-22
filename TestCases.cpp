@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#include "interface_template.h"
+#include "interface_template.cpp"
 
 int failed_tests = 0;
 

@@ -1,5 +1,5 @@
 #include<bits/stdc++.h>
-#include "interface_template1.cpp"
+#include "interface_template.cpp"
 //#include"b22cs067.cpp"
 
 int failed_tests = 0;
